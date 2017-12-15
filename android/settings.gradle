@@ -1,0 +1,3 @@
+rootProject.name = 'NodeMediaClient_ReactNative'
+
+include ':app'
