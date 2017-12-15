@@ -3343,6 +3343,10 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-nodemediaclient@^0.0.6:
+  version "0.0.6"
+  resolved "http://registry.npm.taobao.org/react-native-nodemediaclient/download/react-native-nodemediaclient-0.0.6.tgz#1631af74e1e16ab8b0495895545e4f4172242a5b"
+
 react-native@0.51.0:
   version "0.51.0"
   resolved "http://registry.npm.taobao.org/react-native/download/react-native-0.51.0.tgz#fe25934b3030fd323f3ca1a70f034133465955ed"
