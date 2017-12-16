@@ -98,7 +98,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.nodemediaclient_reactnative"
+        applicationId "cn.nodemedia.demo"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1
